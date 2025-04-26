@@ -1,0 +1,44 @@
+-- 강의실 예약
+INSERT INTO mReservation VALUES(1,'김희재','010-1474-4875', 1, '2025-02-04', '18:00 ~ 19:00', 2);
+INSERT INTO mReservation VALUES(2,'민유리','010-4567-1485', 2, '2025-02-04', '19:00 ~ 20:00', 3);
+INSERT INTO mReservation VALUES(3,'김기정','010-1654-7845', 3, '2025-02-04', '20:00 ~ 21:00', 4);
+INSERT INTO mReservation VALUES(4,'박동현','010-7845-9415', 4, '2025-02-05', '18:00 ~ 19:00', 5);
+INSERT INTO mReservation VALUES(5,'유가현','010-9857-0145', 5, '2025-02-05', '19:00 ~ 20:00', 1);
+INSERT INTO mReservation VALUES(6,'장우명','010-7784-1154', 6, '2025-02-05', '18:00 ~ 19:00', 2);
+INSERT INTO mReservation VALUES(7,'김나연','010-3325-1125', 1, '2025-02-06', '18:00 ~ 19:00', 2);
+INSERT INTO mReservation VALUES(8,'장다현','010-9987-4451', 2, '2025-02-06', '19:00 ~ 20:00', 5);
+INSERT INTO mReservation VALUES(9,'최준혁','010-9884-7554', 3, '2025-02-06', '20:00 ~ 21:00', 5);
+INSERT INTO mReservation VALUES(10,'최민우','010-4885-6887', 5, '2025-02-06', '21:00 ~ 22:00', 4);
+INSERT INTO mReservation VALUES(11,'이나래','010-1879-6445', 6, '2025-02-07', '18:00 ~ 19:00', 4);
+INSERT INTO mReservation VALUES(12,'이미나','010-9485-3115', 1, '2025-02-07', '19:00 ~ 20:00', 4);
+INSERT INTO mReservation VALUES(13,'이지환','010-5698-1657', 2, '2025-02-07', '20:00 ~ 21:00', 5);
+INSERT INTO mReservation VALUES(14,'이현동','010-9147-3158', 4, '2025-02-07', '18:00 ~ 19:00', 4);
+INSERT INTO mReservation VALUES(15,'김대환','010-9785-1154', 1, '2025-02-07', '19:00 ~ 20:00', 3);
+INSERT INTO mReservation VALUES(16,'김중현','010-4875-1148', 3, '2025-02-07', '18:00 ~ 19:00', 2);
+INSERT INTO mReservation VALUES(17,'김재길','010-9748-5548', 1, '2025-02-07', '18:00 ~ 19:00', 5);
+INSERT INTO mReservation VALUES(18,'정형민','010-4487-1154', 6, '2025-02-07', '19:00 ~ 20:00', 4);
+INSERT INTO mReservation VALUES(19,'정재동','010-3325-6658', 4, '2025-02-07', '20:00 ~ 21:00', 4);
+INSERT INTO mReservation VALUES(20,'한지현','010-9539-3663', 5, '2025-02-07', '21:00 ~ 22:00', 2);
+INSERT INTO mReservation VALUES(21,'조수빈','010-2520-6309', 6, '2025-02-07', '09:00 ~ 10:00', 3);
+INSERT INTO mReservation VALUES(22,'장은호','010-4293-3963', 2, '2025-02-07', '10:00 ~ 11:00', 3);
+INSERT INTO mReservation VALUES(23,'조동현','010-2749-5986', 3, '2025-02-07', '11:00 ~ 12:00', 1);
+INSERT INTO mReservation VALUES(24,'조지호','010-6168-2740', 4, '2025-02-07', '11:00 ~ 12:00', 5);
+INSERT INTO mReservation VALUES(25,'최지현','010-5588-8955', 1, '2025-02-07', '11:00 ~ 12:00', 4);
+INSERT INTO mReservation VALUES(26,'한태연','010-6647-8193', 5, '2025-02-07', '11:00 ~ 12:00', 1);
+INSERT INTO mReservation VALUES(27,'박지현','010-8840-6511', 6, '2025-02-08', '10:00 ~ 11:00', 5);
+INSERT INTO mReservation VALUES(28,'최지현','010-8894-8925', 2, '2025-02-08', '11:00 ~ 12:00', 4);
+INSERT INTO mReservation VALUES(29,'한지현','010-4735-2767', 1, '2025-02-08', '11:00 ~ 12:00', 4);
+INSERT INTO mReservation VALUES(30,'최동현','010-9616-2329', 5, '2025-02-08', '11:00 ~ 12:00', 4);
+INSERT INTO mReservation VALUES(31,'김지호','010-2014-1836', 3, '2025-02-08', '11:00 ~ 12:00', 3);
+INSERT INTO mReservation VALUES(32,'이수빈','010-6267-9578', 4, '2025-02-08', '18:00 ~ 19:00', 3);
+INSERT INTO mReservation VALUES(33,'김지현','010-8084-3744', 1, '2025-02-08', '19:00 ~ 20:00', 4);
+INSERT INTO mReservation VALUES(34,'이은호','010-2390-4728', 2, '2025-02-08', '20:00 ~ 21:00', 5);
+INSERT INTO mReservation VALUES(35,'김재우','010-7905-6961', 3, '2025-02-08', '18:00 ~ 19:00', 4);
+INSERT INTO mReservation VALUES(36,'임하준','010-3751-2738', 6, '2025-02-08', '19:00 ~ 20:00', 2);
+INSERT INTO mReservation VALUES(37,'유민지','010-8422-8405', 5, '2025-02-09', '18:00 ~ 19:00', 5);
+INSERT INTO mReservation VALUES(38,'유상현','010-2370-9192', 2, '2025-02-09', '18:00 ~ 19:00', 4);
+INSERT INTO mReservation VALUES(39,'김민지','010-4486-9682', 1, '2025-02-09', '18:00 ~ 19:00', 1);
+INSERT INTO mReservation VALUES(40,'박민지','010-8158-9130', 4, '2025-02-09', '18:00 ~ 19:00', 5);
+
+
+select * from mReservation;

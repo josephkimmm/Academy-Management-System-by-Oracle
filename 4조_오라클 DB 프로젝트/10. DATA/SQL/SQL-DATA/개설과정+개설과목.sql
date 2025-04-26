@@ -1,0 +1,31 @@
+-- pk, 커리, 과목
+INSERT INTO mOpenCurriSubject VALUES (1, 1, 6);
+INSERT INTO mOpenCurriSubject VALUES (2, 1, 3);
+INSERT INTO mOpenCurriSubject VALUES (3, 1, 5);
+INSERT INTO mOpenCurriSubject VALUES (4, 1, 13);
+INSERT INTO mOpenCurriSubject VALUES (5, 2, 7);
+INSERT INTO mOpenCurriSubject VALUES (6, 2, 10);
+INSERT INTO mOpenCurriSubject VALUES (7, 2, 11);
+INSERT INTO mOpenCurriSubject VALUES (8, 3, 1);
+INSERT INTO mOpenCurriSubject VALUES (9, 3, 8);
+INSERT INTO mOpenCurriSubject VALUES (10, 3, 9);
+INSERT INTO mOpenCurriSubject VALUES (11, 4, 27);
+INSERT INTO mOpenCurriSubject VALUES (12, 4, 28);
+INSERT INTO mOpenCurriSubject VALUES (13, 5, 29);
+INSERT INTO mOpenCurriSubject VALUES (14, 5, 30);
+INSERT INTO mOpenCurriSubject VALUES (15, 6, 34);
+INSERT INTO mOpenCurriSubject VALUES (16, 6, 35);
+INSERT INTO mOpenCurriSubject VALUES (17, 7, 23);
+INSERT INTO mOpenCurriSubject VALUES (18, 7, 27);
+INSERT INTO mOpenCurriSubject VALUES (19, 8, 4);
+INSERT INTO mOpenCurriSubject VALUES (20, 8, 17);
+INSERT INTO mOpenCurriSubject VALUES (21, 9, 6);
+INSERT INTO mOpenCurriSubject VALUES (22, 9, 13);
+INSERT INTO mOpenCurriSubject VALUES (23, 10, 20);
+INSERT INTO mOpenCurriSubject VALUES (24, 10, 46);
+INSERT INTO mOpenCurriSubject VALUES (25, 11, 26);
+INSERT INTO mOpenCurriSubject VALUES (26, 11, 29);
+INSERT INTO mOpenCurriSubject VALUES (27, 12, 1);
+INSERT INTO mOpenCurriSubject VALUES (28, 12, 22);
+
+select * from mOpenCurriSubject;
